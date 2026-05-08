@@ -12,6 +12,12 @@ Active Scope:
 Primary Source: [Keep Kaam PRD Updated (V2) (1).docx](/Users/mac/Documents/keep-kaam-training/docs/prd/Keep%20Kaam%20PRD%20Updated%20%28V2%29%20%281%29.docx)
 Purpose: Preserve only the clarified decisions that still matter to the active scoped brief.
 
+## Documentation Stage
+
+- Documentation stage: `Planning complete`
+- Repository stage on `2026-05-08`: `Docs-only; clarifications are locked before implementation`
+- Role in the docs set: `Acts as scoped decision support for the final brief, plans, and architecture docs`
+
 ## Scope Rules
 
 ### 1. Active brief boundary
